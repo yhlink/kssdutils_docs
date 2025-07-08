@@ -1,11 +1,11 @@
-# 1. Installation 
+# Installation 
 Kssdutils requires the Python 3 environment and the dependent packages pandas, and requests. If kssdutils is installed using the pip command, these dependencies will be installed automatically. For MacOS, it requires Python 3.8 or higher version. For Windows, it requires Python 3.6 version and the installation of the gzip tool(https://gnuwin32.sourceforge.net/packages/gzip.htm) for sequence decompression.
-## 1.1 Linux
+## 1. Linux
 
 ```
 pip install kssdutils
 ```
-## 1.2 MacOS
+## 2. MacOS
 
 ```
 # (Optional) Install gcc (/opt/homebrew/bin/gcc-12) 
@@ -20,7 +20,7 @@ conda activate kssdutils
 # Install kssdutils
 pip install kssdutils
 ```
-## 1.3 Windows
+## 3. Windows
 
 ```
 # Create a virtual environment
