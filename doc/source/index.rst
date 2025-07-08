@@ -3,12 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Kssdtree
+Kssdutils
 ================================
 
 Welcome to the Kssdutils documentation!
 
-Kssdtree is a versatile Python package for genome sketch and distance estimation.
+Kssdutils is a versatile Python package for genome sketch and distance estimation.
+
 .. toctree::
    :maxdepth: 1
 
